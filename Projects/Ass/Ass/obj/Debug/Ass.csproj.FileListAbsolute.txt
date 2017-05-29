@@ -1,0 +1,12 @@
+c:\users\vattanac\documents\visual studio 2013\Projects\Ass\Ass\bin\Debug\Ass.exe.config
+c:\users\vattanac\documents\visual studio 2013\Projects\Ass\Ass\bin\Debug\Ass.exe
+c:\users\vattanac\documents\visual studio 2013\Projects\Ass\Ass\bin\Debug\Ass.pdb
+c:\users\vattanac\documents\visual studio 2013\Projects\Ass\Ass\bin\Debug\MaterialSkin.dll
+c:\users\vattanac\documents\visual studio 2013\Projects\Ass\Ass\obj\Debug\Ass.csprojResolveAssemblyReference.cache
+c:\users\vattanac\documents\visual studio 2013\Projects\Ass\Ass\obj\Debug\Ass.Properties.Resources.resources
+c:\users\vattanac\documents\visual studio 2013\Projects\Ass\Ass\obj\Debug\Ass.csproj.GenerateResource.Cache
+c:\users\vattanac\documents\visual studio 2013\Projects\Ass\Ass\obj\Debug\Ass.exe
+c:\users\vattanac\documents\visual studio 2013\Projects\Ass\Ass\obj\Debug\Ass.pdb
+c:\users\vattanac\documents\visual studio 2013\Projects\Ass\Ass\obj\Debug\Ass.Form1.resources
+C:\Users\Vattanac\documents\visual studio 2013\Projects\Ass\Ass\obj\Debug\Ass.Form2.resources
+C:\Users\Vattanac\documents\visual studio 2013\Projects\Ass\Ass\obj\Debug\Ass.frmCreatBrowser.resources

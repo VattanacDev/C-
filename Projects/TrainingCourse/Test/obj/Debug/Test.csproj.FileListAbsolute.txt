@@ -1,0 +1,11 @@
+C:\Users\Vattanac\documents\visual studio 2013\Projects\TrainingCourse\Test\bin\Debug\Test.exe.config
+C:\Users\Vattanac\documents\visual studio 2013\Projects\TrainingCourse\Test\bin\Debug\Test.exe
+C:\Users\Vattanac\documents\visual studio 2013\Projects\TrainingCourse\Test\bin\Debug\Test.pdb
+C:\Users\Vattanac\documents\visual studio 2013\Projects\TrainingCourse\Test\obj\Debug\Test.csprojResolveAssemblyReference.cache
+C:\Users\Vattanac\documents\visual studio 2013\Projects\TrainingCourse\Test\obj\Debug\Test.Form1.resources
+C:\Users\Vattanac\documents\visual studio 2013\Projects\TrainingCourse\Test\obj\Debug\Test.Properties.Resources.resources
+C:\Users\Vattanac\documents\visual studio 2013\Projects\TrainingCourse\Test\obj\Debug\Test.csproj.GenerateResource.Cache
+C:\Users\Vattanac\documents\visual studio 2013\Projects\TrainingCourse\Test\obj\Debug\Test.exe
+C:\Users\Vattanac\documents\visual studio 2013\Projects\TrainingCourse\Test\obj\Debug\Test.pdb
+C:\Users\Vattanac\documents\visual studio 2013\Projects\TrainingCourse\Test\bin\Debug\MaterialSkin.dll
+C:\Users\Vattanac\documents\visual studio 2013\Projects\TrainingCourse\Test\obj\Debug\Test.Form2.resources

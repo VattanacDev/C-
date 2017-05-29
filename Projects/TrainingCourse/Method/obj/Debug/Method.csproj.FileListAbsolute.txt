@@ -1,0 +1,13 @@
+C:\Users\Vattanac\documents\visual studio 2013\Projects\TrainingCourse\Method\bin\Debug\Method.exe.config
+C:\Users\Vattanac\documents\visual studio 2013\Projects\TrainingCourse\Method\bin\Debug\Method.exe
+C:\Users\Vattanac\documents\visual studio 2013\Projects\TrainingCourse\Method\bin\Debug\Method.pdb
+C:\Users\Vattanac\documents\visual studio 2013\Projects\TrainingCourse\Method\obj\Debug\Method.Form1.resources
+C:\Users\Vattanac\documents\visual studio 2013\Projects\TrainingCourse\Method\obj\Debug\Method.Properties.Resources.resources
+C:\Users\Vattanac\documents\visual studio 2013\Projects\TrainingCourse\Method\obj\Debug\Method.csproj.GenerateResource.Cache
+C:\Users\Vattanac\documents\visual studio 2013\Projects\TrainingCourse\Method\obj\Debug\Method.exe
+C:\Users\Vattanac\documents\visual studio 2013\Projects\TrainingCourse\Method\obj\Debug\Method.pdb
+C:\Users\Vattanac\documents\visual studio 2013\Projects\TrainingCourse\Method\obj\Debug\Method.Rechtangle.resources
+C:\Users\Vattanac\documents\visual studio 2013\Projects\TrainingCourse\Method\obj\Debug\Method.Equation2Degree.resources
+C:\Users\Vattanac\documents\visual studio 2013\Projects\TrainingCourse\Method\obj\Debug\Method.Form2.resources
+C:\Users\Vattanac\documents\visual studio 2013\Projects\TrainingCourse\Method\obj\Debug\Method.frmOnlyDigitonTrxtBoxcs.resources
+C:\Users\Vattanac\documents\visual studio 2013\Projects\TrainingCourse\Method\obj\Debug\Method.csprojResolveAssemblyReference.cache

@@ -1,0 +1,9 @@
+c:\users\vattanac\documents\visual studio 2013\Projects\TrainingCourse\TrainingCourse\bin\Debug\TrainingCourse.exe.config
+C:\Users\Vattanac\documents\visual studio 2013\Projects\TrainingCourse\TrainingCourse\bin\Debug\TrainingCourse.exe
+C:\Users\Vattanac\documents\visual studio 2013\Projects\TrainingCourse\TrainingCourse\bin\Debug\TrainingCourse.pdb
+C:\Users\Vattanac\documents\visual studio 2013\Projects\TrainingCourse\TrainingCourse\obj\Debug\TrainingCourse.csprojResolveAssemblyReference.cache
+C:\Users\Vattanac\documents\visual studio 2013\Projects\TrainingCourse\TrainingCourse\obj\Debug\TrainingCourse.Form1.resources
+C:\Users\Vattanac\documents\visual studio 2013\Projects\TrainingCourse\TrainingCourse\obj\Debug\TrainingCourse.Properties.Resources.resources
+C:\Users\Vattanac\documents\visual studio 2013\Projects\TrainingCourse\TrainingCourse\obj\Debug\TrainingCourse.csproj.GenerateResource.Cache
+C:\Users\Vattanac\documents\visual studio 2013\Projects\TrainingCourse\TrainingCourse\obj\Debug\TrainingCourse.exe
+C:\Users\Vattanac\documents\visual studio 2013\Projects\TrainingCourse\TrainingCourse\obj\Debug\TrainingCourse.pdb

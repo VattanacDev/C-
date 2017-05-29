@@ -1,0 +1,51 @@
+C:\Users\samsng\Desktop\Projects\c#\Csharp_Project\Csharp_Project\bin\Debug\Csharp_Project.exe.config
+C:\Users\samsng\Desktop\Projects\c#\Csharp_Project\Csharp_Project\bin\Debug\Csharp_Project.exe
+C:\Users\samsng\Desktop\Projects\c#\Csharp_Project\Csharp_Project\bin\Debug\Csharp_Project.pdb
+C:\Users\samsng\Desktop\Projects\c#\Csharp_Project\Csharp_Project\obj\Debug\Csharp_Project.csprojResolveAssemblyReference.cache
+C:\Users\samsng\Desktop\Projects\c#\Csharp_Project\Csharp_Project\obj\Debug\Csharp_Project.FORM_LOGIN.resources
+C:\Users\samsng\Desktop\Projects\c#\Csharp_Project\Csharp_Project\obj\Debug\Csharp_Project.Properties.Resources.resources
+C:\Users\samsng\Desktop\Projects\c#\Csharp_Project\Csharp_Project\obj\Debug\Csharp_Project.csproj.GenerateResource.Cache
+C:\Users\samsng\Desktop\Projects\c#\Csharp_Project\Csharp_Project\obj\Debug\Csharp_Project.exe
+C:\Users\samsng\Desktop\Projects\c#\Csharp_Project\Csharp_Project\obj\Debug\Csharp_Project.pdb
+C:\Users\samsng\Desktop\Projects\c#\Csharp_Project\Csharp_Project\obj\Debug\Csharp_Project.FORM_HOME.resources
+C:\Users\samsng\Desktop\Projects\c#\Csharp_Project\Csharp_Project\obj\Debug\Csharp_Project.FORM_NEW_PRODUCT.resources
+C:\Users\samsng\Desktop\Projects\c#\Csharp_Project\Csharp_Project\obj\Debug\Csharp_Project.FORM_MANAGE_PRODUCT.resources
+C:\Users\samsng\Desktop\Projects\c#\Csharp_Project\Csharp_Project\obj\Debug\Csharp_Project.FORM_UPDATE_PRODUCT.resources
+C:\Users\samsng\Desktop\Projects\c#\Csharp_Project\Csharp_Project\obj\Debug\Csharp_Project.FORM_MANAGE_CATEGORIES.resources
+C:\Users\samsng\Desktop\Projects\c#\Csharp_Project\Csharp_Project\obj\Debug\Csharp_Project.FORM_MANAGE_CUSTOMER.resources
+C:\Users\samsng\Desktop\Projects\c#\Csharp_Project\Csharp_Project\obj\Debug\Csharp_Project.FORM_MANAGE_ORDER.resources
+C:\Users\samsng\Desktop\Projects\c#\Csharp_Project\Csharp_Project\obj\Debug\Csharp_Project.FORM_QUANTITY.resources
+C:\Users\samsng\Desktop\Projects\c#\Csharp_Project\Csharp_Project\obj\Debug\Csharp_Project.FORM_PRODUCTS_IN_CATEGORY.resources
+C:\Users\samsng\Desktop\Projects\c#\Csharp_Project\Csharp_Project\obj\Debug\Csharp_Project.FORM_MANAGE_USER.resources
+C:\Users\samsng\Desktop\Projects\c#\Csharp_Project\Csharp_Project\bin\Debug\itextsharp.dll
+C:\Users\samsng\Desktop\Projects\c#\Csharp_Project\Csharp_Project\bin\Debug\itextsharp.xml
+C:\Users\samsng\Desktop\Projects\c#\Csharp_Project\Csharp_Project\obj\Debug\Csharp_Project.FORM_ADD_NEW_CATEGORIE.resources
+C:\Users\samsng\Desktop\Projects\c#\Csharp_Project\Csharp_Project\obj\Debug\Csharp_Project.FORM_CUSTOMER_ORDERS.resources
+C:\Users\samsng\Desktop\Projects\c#\Csharp_Project\Csharp_Project\obj\Debug\Csharp_Project.FORM_NEW_CUSTOMER.resources
+C:\Users\samsng\Desktop\Projects\c#\Csharp_Project\Csharp_Project\obj\Debug\Csharp_Project.FORM_NEW_USER.resources
+C:\Users\samsng\Desktop\Projects\c#\Csharp_Project\Csharp_Project\obj\Debug\Csharp_Project.FORM_ALL_ORDERS.resources
+C:\Users\Vattanac\Documents\Visual Studio 2013\Projects\Csharp_inventory_management_system\Csharp_Project\Csharp_Project\bin\Debug\Csharp_Project.exe.config
+C:\Users\Vattanac\Documents\Visual Studio 2013\Projects\Csharp_inventory_management_system\Csharp_Project\Csharp_Project\obj\Debug\Csharp_Project.exe
+C:\Users\Vattanac\Documents\Visual Studio 2013\Projects\Csharp_inventory_management_system\Csharp_Project\Csharp_Project\obj\Debug\Csharp_Project.pdb
+C:\Users\Vattanac\Documents\Visual Studio 2013\Projects\Csharp_inventory_management_system\Csharp_Project\Csharp_Project\bin\Debug\Csharp_Project.exe
+C:\Users\Vattanac\Documents\Visual Studio 2013\Projects\Csharp_inventory_management_system\Csharp_Project\Csharp_Project\bin\Debug\Csharp_Project.pdb
+C:\Users\Vattanac\Documents\Visual Studio 2013\Projects\Csharp_inventory_management_system\Csharp_Project\Csharp_Project\bin\Debug\itextsharp.xml
+C:\Users\Vattanac\Documents\Visual Studio 2013\Projects\Csharp_inventory_management_system\Csharp_Project\Csharp_Project\obj\Debug\Csharp_Project.csprojResolveAssemblyReference.cache
+C:\Users\Vattanac\Documents\Visual Studio 2013\Projects\Csharp_inventory_management_system\Csharp_Project\Csharp_Project\obj\Debug\Csharp_Project.FORM_ADD_NEW_CATEGORIE.resources
+C:\Users\Vattanac\Documents\Visual Studio 2013\Projects\Csharp_inventory_management_system\Csharp_Project\Csharp_Project\obj\Debug\Csharp_Project.FORM_ALL_ORDERS.resources
+C:\Users\Vattanac\Documents\Visual Studio 2013\Projects\Csharp_inventory_management_system\Csharp_Project\Csharp_Project\obj\Debug\Csharp_Project.FORM_CUSTOMER_ORDERS.resources
+C:\Users\Vattanac\Documents\Visual Studio 2013\Projects\Csharp_inventory_management_system\Csharp_Project\Csharp_Project\obj\Debug\Csharp_Project.FORM_HOME.resources
+C:\Users\Vattanac\Documents\Visual Studio 2013\Projects\Csharp_inventory_management_system\Csharp_Project\Csharp_Project\obj\Debug\Csharp_Project.FORM_LOGIN.resources
+C:\Users\Vattanac\Documents\Visual Studio 2013\Projects\Csharp_inventory_management_system\Csharp_Project\Csharp_Project\obj\Debug\Csharp_Project.FORM_MANAGE_CATEGORIES.resources
+C:\Users\Vattanac\Documents\Visual Studio 2013\Projects\Csharp_inventory_management_system\Csharp_Project\Csharp_Project\obj\Debug\Csharp_Project.FORM_MANAGE_CUSTOMER.resources
+C:\Users\Vattanac\Documents\Visual Studio 2013\Projects\Csharp_inventory_management_system\Csharp_Project\Csharp_Project\obj\Debug\Csharp_Project.FORM_MANAGE_ORDER.resources
+C:\Users\Vattanac\Documents\Visual Studio 2013\Projects\Csharp_inventory_management_system\Csharp_Project\Csharp_Project\obj\Debug\Csharp_Project.FORM_MANAGE_PRODUCT.resources
+C:\Users\Vattanac\Documents\Visual Studio 2013\Projects\Csharp_inventory_management_system\Csharp_Project\Csharp_Project\obj\Debug\Csharp_Project.FORM_MANAGE_USER.resources
+C:\Users\Vattanac\Documents\Visual Studio 2013\Projects\Csharp_inventory_management_system\Csharp_Project\Csharp_Project\obj\Debug\Csharp_Project.FORM_NEW_CUSTOMER.resources
+C:\Users\Vattanac\Documents\Visual Studio 2013\Projects\Csharp_inventory_management_system\Csharp_Project\Csharp_Project\obj\Debug\Csharp_Project.FORM_NEW_PRODUCT.resources
+C:\Users\Vattanac\Documents\Visual Studio 2013\Projects\Csharp_inventory_management_system\Csharp_Project\Csharp_Project\obj\Debug\Csharp_Project.FORM_NEW_USER.resources
+C:\Users\Vattanac\Documents\Visual Studio 2013\Projects\Csharp_inventory_management_system\Csharp_Project\Csharp_Project\obj\Debug\Csharp_Project.FORM_PRODUCTS_IN_CATEGORY.resources
+C:\Users\Vattanac\Documents\Visual Studio 2013\Projects\Csharp_inventory_management_system\Csharp_Project\Csharp_Project\obj\Debug\Csharp_Project.FORM_QUANTITY.resources
+C:\Users\Vattanac\Documents\Visual Studio 2013\Projects\Csharp_inventory_management_system\Csharp_Project\Csharp_Project\obj\Debug\Csharp_Project.FORM_UPDATE_PRODUCT.resources
+C:\Users\Vattanac\Documents\Visual Studio 2013\Projects\Csharp_inventory_management_system\Csharp_Project\Csharp_Project\obj\Debug\Csharp_Project.Properties.Resources.resources
+C:\Users\Vattanac\Documents\Visual Studio 2013\Projects\Csharp_inventory_management_system\Csharp_Project\Csharp_Project\obj\Debug\Csharp_Project.csproj.GenerateResource.Cache

@@ -1,0 +1,4 @@
+stu001|sok|Male|f947afc4-f5f5-4944-aef3-e7eb926549a0.jpg
+stu003|kosal|Male|5fa5f7a0-dc51-4249-810f-8ad7d5c1c873.jpg
+stu005|mrLN|Male|c2a61de8-e89a-414b-b232-49858cfd79ec
+stu007|kok|Female|488c5627-0e3c-4d8e-b629-ab51fce8fccb.jpg
